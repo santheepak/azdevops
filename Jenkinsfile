@@ -19,7 +19,7 @@ pipeline {
  
         stage('Deploy') {
             steps {
-                echo 'Deploying the application...'
+                echo 'edited'
                 // Example shell command: sh 'make publish'
             }
         }
